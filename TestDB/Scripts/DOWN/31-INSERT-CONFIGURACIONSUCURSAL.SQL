@@ -1,0 +1,1 @@
+UPDATE ConfiguracionSucursal Set MailGerente= NULL where NroSucursal= 414

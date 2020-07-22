@@ -1,0 +1,15 @@
+**************************************************
+*  Configuración  de ejecucion de scripts        *
+*                                                *
+*	Autor: Ariel Brenman                         *
+*	Creacion: 11/05/2018                         *
+*	Ultima modificación:                         *
+*	Fecha modificación:                          *
+**************************************************
+
+
+1-Ingresar en la configuración del proyecto TestDb.Database
+2-En la parte de configuración hay 3 configuraciones:
+	* La ruta donde deben estar los archivos Up a ejecutar.
+	* La ruta donde deben estar los archivos Down a ejecutar.
+	* ConexionDb contiene dentro de Data Source="Nombre del servidor";Initial Catalog="Nombre de la base"

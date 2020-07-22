@@ -1,0 +1,1 @@
+ ALTER TABLE TransaccionesEspecies DROP COLUMN IdMotivo

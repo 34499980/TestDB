@@ -1,0 +1,1 @@
+delete from ConfiguracionTemplateEmail where IdTemplate in (7,8)

@@ -1,0 +1,1 @@
+delete from TipoEntrega where IdTipoEntrega in (1,2)

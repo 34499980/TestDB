@@ -1,0 +1,1 @@
+ALTER TABLE ImpresionADemanda DROP COLUMN FechaError 

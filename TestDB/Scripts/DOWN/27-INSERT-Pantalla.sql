@@ -1,0 +1,1 @@
+delete from Pantallas where IdPantalla in (22,23,24)

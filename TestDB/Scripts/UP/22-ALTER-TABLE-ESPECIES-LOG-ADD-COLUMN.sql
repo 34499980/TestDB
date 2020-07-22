@@ -1,0 +1,3 @@
+ALTER TABLE EspeciesLog ADD ADemanda BIT NOT NULL DEFAULT 0
+ALTER TABLE EspeciesLog ADD Impreso BIT NOT NULL DEFAULT 0
+ALTER TABLE EspeciesLog ADD IdEspecieADemandaImprimir INT NULL
